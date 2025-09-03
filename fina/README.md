@@ -75,18 +75,6 @@ flutter clean && flutter pub get
 ```
 
 ---
-
-## Screenshots
-
-> تصاویر خروجی خودت را اضافه کن (پیشنهاد: `assets/readme/...`)
-
-```md
-![Ride Preview](assets/readme/ride_preview.png)
-![Car Details](assets/readme/car_details.png)
-```
-
----
-
 ## Implementation Highlights
 
 - Responsive scale (مطابق فریم 375px فیگما)
