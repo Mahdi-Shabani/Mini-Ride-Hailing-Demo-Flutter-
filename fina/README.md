@@ -65,7 +65,6 @@ Environment:
 Assets (ضروری):
 - images: `Map.png`, `Top_bar.png`, `Bottom.png`, `bmw.png`
 - icons: `Chevron.png`, `Heart.png`, `star.png`, `Tags.png`, `Spec.png`  
-توجه: نام فایل‌ها حساس به حروف بزرگ/کوچک است (مثال: `Tags.png` درست است).
 
 اگر Asset جدید اضافه شد:
 ```bash
